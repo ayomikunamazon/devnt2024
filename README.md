@@ -1,4 +1,4 @@
 # devnt2024
 Devnt repository
 
-This is the main repository for the dev net class 2024
+This is the main repository for the dev net class 2024 <updated>
